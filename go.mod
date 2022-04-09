@@ -4,7 +4,6 @@ go 1.16
 
 require (
 	github.com/Masterminds/semver/v3 v3.1.1
-	github.com/bgentry/speakeasy v0.1.0 // indirect
 	github.com/editorconfig/editorconfig-core-go/v2 v2.4.4
 	github.com/fatih/color v1.9.0 // indirect
 	github.com/go-ldap/ldap/v3 v3.4.2
@@ -31,7 +30,7 @@ require (
 	github.com/klauspost/cpuid v1.2.1 // indirect
 	github.com/mattn/go-isatty v0.0.13 // indirect
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible // indirect
-	github.com/mcuadros/go-version v0.0.0-20190830083331-035f6764e8d2 // indirect
+	github.com/mcuadros/go-version v0.0.0-20190830083331-035f6764e8d2
 	github.com/microcosm-cc/bluemonday v1.0.18
 	github.com/msteinert/pam v0.0.0-20190215180659-f29b9f28d6f9
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646
@@ -65,9 +64,9 @@ require (
 	gorm.io/driver/sqlserver v1.3.1
 	gorm.io/gorm v1.23.4
 	unknwon.dev/clog/v2 v2.2.0
-	xorm.io/builder v0.3.6
+	xorm.io/builder v0.3.9
 	xorm.io/core v0.7.2
-	xorm.io/xorm v0.8.0
+	xorm.io/xorm v1.2.5
 )
 
 // +heroku goVersion go1.16
