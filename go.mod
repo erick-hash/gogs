@@ -31,7 +31,7 @@ require (
 	github.com/klauspost/cpuid v1.2.1 // indirect
 	github.com/mattn/go-isatty v0.0.13 // indirect
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible // indirect
-	github.com/mcuadros/go-version v0.0.0-20190830083331-035f6764e8d2 // indirect
+	github.com/mcuadros/go-version v0.0.0-20190830083331-035f6764e8d2
 	github.com/microcosm-cc/bluemonday v1.0.18
 	github.com/msteinert/pam v0.0.0-20190215180659-f29b9f28d6f9
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646
@@ -60,10 +60,10 @@ require (
 	gopkg.in/ini.v1 v1.66.4
 	gopkg.in/macaron.v1 v1.4.0
 	gorm.io/driver/mysql v1.3.3
-	gorm.io/driver/postgres v1.3.3
+	gorm.io/driver/postgres v1.3.9
 	gorm.io/driver/sqlite v1.1.4
 	gorm.io/driver/sqlserver v1.3.1
-	gorm.io/gorm v1.23.4
+	gorm.io/gorm v1.23.7
 	unknwon.dev/clog/v2 v2.2.0
 	xorm.io/builder v0.3.6
 	xorm.io/core v0.7.2
