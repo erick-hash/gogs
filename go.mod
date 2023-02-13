@@ -29,9 +29,11 @@ require (
 	github.com/json-iterator/go v1.1.12
 	github.com/klauspost/compress v1.8.6 // indirect
 	github.com/klauspost/cpuid v1.2.1 // indirect
+	github.com/lib/pq v1.10.2 // indirect
+	github.com/mattn/go-colorable v0.1.6 // indirect
 	github.com/mattn/go-isatty v0.0.13 // indirect
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible // indirect
-	github.com/mcuadros/go-version v0.0.0-20190830083331-035f6764e8d2 // indirect
+	github.com/mcuadros/go-version v0.0.0-20190830083331-035f6764e8d2
 	github.com/microcosm-cc/bluemonday v1.0.18
 	github.com/msteinert/pam v0.0.0-20190215180659-f29b9f28d6f9
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646
@@ -45,25 +47,25 @@ require (
 	github.com/satori/go.uuid v1.2.0
 	github.com/sergi/go-diff v1.2.0
 	github.com/ssor/bom v0.0.0-20170718123548-6386211fdfcf // indirect
-	github.com/stretchr/testify v1.7.1
+	github.com/stretchr/testify v1.8.0
 	github.com/unknwon/cae v1.0.2
 	github.com/unknwon/com v1.0.1
 	github.com/unknwon/i18n v0.0.0-20190805065654-5c6446a380b6
 	github.com/unknwon/paginater v0.0.0-20170405233947-45e5d631308e
 	github.com/urfave/cli v1.22.5
-	golang.org/x/crypto v0.0.0-20220331220935-ae2d96664a29
-	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2
-	golang.org/x/text v0.3.7
+	golang.org/x/crypto v0.4.0
+	golang.org/x/net v0.3.0
+	golang.org/x/text v0.5.0
 	gopkg.in/DATA-DOG/go-sqlmock.v2 v2.0.0-20180914054222-c19298f520d0
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
 	gopkg.in/ini.v1 v1.66.4
 	gopkg.in/macaron.v1 v1.4.0
 	gorm.io/driver/mysql v1.3.3
-	gorm.io/driver/postgres v1.3.3
+	gorm.io/driver/postgres v1.4.7
 	gorm.io/driver/sqlite v1.1.4
 	gorm.io/driver/sqlserver v1.3.1
-	gorm.io/gorm v1.23.4
+	gorm.io/gorm v1.24.2
 	unknwon.dev/clog/v2 v2.2.0
 	xorm.io/builder v0.3.6
 	xorm.io/core v0.7.2
